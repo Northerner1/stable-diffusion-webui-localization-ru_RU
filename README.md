@@ -2,7 +2,7 @@
  Russian translation extension for AUTOMATIC1111's stable diffusion webui
 
 # Русский(Russian)
-Расширение для перевода на Русский язык [stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+[Расширение](https://github.com/Northerner1/stable-diffusion-webui-localization-ru_RU) для перевода на Русский язык [stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 Полумашинный перевод с английскойго и китайского.
 Часть переведена с английского, часть с китайского из-за полезных уточнений автора китайского перевода.
 Выражаю благодарность автору китайской локализации [localization-zh_CN](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN)
