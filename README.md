@@ -1,9 +1,6 @@
 # stable-diffusion-webui-localization-ru_RU
  Russian translation extension for AUTOMATIC1111's stable diffusion webui
 
-# stable-diffusion-webui-localization-ru_RU
-Russian translation extension for AUTOMATIC1111's stable diffusion webui
-
 # Русский(Russian)
 Расширение для перевода на Русский язык [stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 Полумашинный перевод с английскойго и китайского.
