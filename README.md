@@ -4,8 +4,10 @@
 # Русский(Russian)
 [Расширение](https://github.com/Northerner1/stable-diffusion-webui-localization-ru_RU) для перевода на Русский язык [stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 Полумашинный перевод с английскойго и китайского.
-Часть переведена с английского, часть с китайского из-за полезных уточнений автора китайского перевода.
+Часть переведена с английского, часть с китайского.
+
 Выражаю благодарность автору китайской локализации [localization-zh_CN](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN)
+
 
 ## Переведенные расширения
 <details>
@@ -60,6 +62,9 @@
 
 ### 1. Поместить папку stable-diffusion-webui-localization-ru_RU по адресу : stable-diffusion-webui\extensions\stable-diffusion-webui-localization-ru_RU
 
-### 2. Запустить stable diffusion, перейти в вкладку "Extensions" и убедиться что на stable-diffusion-webui-localization-ru_RU стоит галочка, после перейти в Settings >> User interface в самом низу будет "Localization (requires restart) - None" выбрать "ru_RU", после чего наверху нажать "Apply settings", и "Reload UI" 
+### 2. Поместить файл hints.js в папку : stable-diffusion-webui\javascript
+(hints.js - Русский перевод всплывающих подсказок при наведении на элементы) 
 
-### 3. Готово 
+### 3. Запустить stable diffusion, перейти в вкладку "Extensions" и убедиться что на stable-diffusion-webui-localization-ru_RU стоит галочка, после перейти в Settings >> User interface в самом низу будет "Localization (requires restart) - None" выбрать "ru_RU", после чего наверху нажать "Apply settings", и "Reload UI" 
+
+### 4. Готово 
