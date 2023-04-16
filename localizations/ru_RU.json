@@ -1735,7 +1735,7 @@
     "Generate a checkpoint at the current training lvel.": "Создать контрольную точку на текущем уровне тренировки.(ckpt)",
     "Generate a preview image every N steps, 0 to disable": "Создавать изображение для предварительного просмотра каждые N шагов, 0 для отключения",
     "Generate all possible prompts up to a maximum of Batch count * Batch size)": "Создать все возможные промты до максимального количества пакетов * Размер партии)",
-    "Generate forever": "Сгенерировать вечно",
+    "Generate forever": "Генерировать вечно",
     "Generate preview images every N steps.": "Создавать изображения для предварительного просмотра каждые N шагов.",
     "Generation settings:": "Настройки генерации::",
     "Get List": "Получить список",
