@@ -2153,6 +2153,7 @@
     "Alpha matting": "альфа-матирование",
     "Enter hypernetwork Dropout structure (or empty). Recommended : 0~0.35 incrementing sequence: 0, 0.05, 0.15": "Введите структуру Dropout гиперсети (или пустую). Рекомендуемая: 0~0,35 последовательность приращения: 0, 0,05, 0,15",
     "Auto-sized crop": "Автоматический размер кадрирования",
+    "Gradient Clipping": "Градиентная обрезка",
     "Embedding": "Встраивание",
     "Prompt template": "Шаблон промта",
     "Do not resize images": "Не изменять размер изображений",
