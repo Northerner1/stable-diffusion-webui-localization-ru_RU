@@ -39,15 +39,15 @@
   - [x] [detailer](https://github.com/dustysys/ddetailer.git)  
   - [x] [prompt travel](https://github.com/Kahsolt/stable-diffusion-webui-prompt-travel)  
   - [x] [conditioning highres fix](	https://github.com/dtlnor/stable-diffusion-webui-conditioning-highres-fix.git) 
-  - [x] [randomize](https://github.com/stysmmaker/stable-diffusion-webui-randomize.git)  
   - [x] [auto TLS-HTTPS](https://github.com/papuSpartan/stable-diffusion-webui-auto-tls-https.git)  
   - [x] [DreamArtist](https://github.com/7eu7d7/DreamArtist-sd-webui-extension.git)  
   - [ ] [Waifu Diffusion 1.4 tagger](https://github.com/toriato/stable-diffusion-webui-wd14-tagger.git)  
   - [ ] [booru2prompt](https://github.com/Malisius/booru2prompt)  
   - [ ] [merge board](https://github.com/bbc-mc/sdweb-merge-board)  
   - [ ] [multi subject render](https://github.com/Extraltodeus/multi-subject-render)  
-  - [ ] [depthmap2mask](https://github.com/Extraltodeus/depthmap2mask)  
-  - [ ] [Cross-Attention](https://github.com/benkyoujouzu/stable-diffusion-webui-visualize-cross-attention-extension)  
+  - [x] [depthmap2mask](https://github.com/Extraltodeus/depthmap2mask)  
+  - [ ] [Cross-Attention](https://github.com/benkyoujouzu/stable-diffusion-webui-visualize-cross-attention-extension)
+  - [x] [rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg)
 </details>
 
 ## Переведенные скрипты
