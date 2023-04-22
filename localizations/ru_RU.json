@@ -2174,7 +2174,6 @@
     "sigma churn": "отток сигмы",
     "Unload SD checkpoint to free VRAM": "Выгрузить модель для освобождения видеопамяти",
     "Reload the last SD checkpoint back into VRAM": "Перезагрузить последнюю модель обратно в видеопамять",
-    "Bilingual Localization": "Двуязычная локализация",
     "•": "・",
     "--------": "---------"
 }
