@@ -288,7 +288,7 @@
     "Create debug image": "Создать отладочный образ",
     "Create embedding": "Создать Встраивание",
     "Create flipped copies": "Создать перевернутые копии",
-    "Create hypernetwork": "Создать гиперсеть",
+    "Create hypernetwork": "Создать Гиперсеть",
     "Create images embedding": "Создать Встраивание изображений",
     "Creates animation sequence from denoised intermediate steps with video frame interpolation to achieve desired animation duration": "Создает последовательность анимации из промежуточных шагов с шумоподавлением с интерполяцией видеокадров для достижения желаемой продолжительности анимации",
     "Crop Images": "Обрезать изображение",
