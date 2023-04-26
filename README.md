@@ -48,6 +48,7 @@
   - [x] [depthmap2mask](https://github.com/Extraltodeus/depthmap2mask)  
   - [ ] [Cross-Attention](https://github.com/benkyoujouzu/stable-diffusion-webui-visualize-cross-attention-extension)
   - [x] [rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg)
+  - [x] [Tiled Diffusion](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
 </details>
 
 ## Переведенные скрипты
