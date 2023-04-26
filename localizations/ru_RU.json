@@ -2180,7 +2180,7 @@
     "Draw full canvas background": "Нарисуйте полный фон холста",
     "Causalize layers": "Каузализовать слои",
     "Create txt2img canvas": "Создать холст текст-в-изо",
-    "Ref image (for conviently locate regions)": "Метод",
+    "Ref image (for conviently locate regions)": "Исходное изображение (для удобно расположенных регионов)",
     "Custom Config File": "Пользовательский файл конфигурации",
     "Type": "Тип",    
     "•": "・",
