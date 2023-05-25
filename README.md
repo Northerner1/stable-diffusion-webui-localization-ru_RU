@@ -1,13 +1,8 @@
 # stable-diffusion-webui-localization-ru_RU
- Russian translation extension for AUTOMATIC1111's stable diffusion webui
+ Русский язык для AUTOMATIC1111's stable diffusion webui
 
-# Русский(Russian)
+# Описание
 [Расширение](https://github.com/Northerner1/stable-diffusion-webui-localization-ru_RU) для перевода на Русский язык [stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-Полумашинный перевод с английскойго и китайского.
-Часть переведена с английского, часть с китайского.
-
-Выражаю благодарность автору китайской локализации [localization-zh_CN](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN)
-
 
 ## Переведенные расширения
 <details>
@@ -20,16 +15,8 @@
   - [x] [smartprocess](https://github.com/d8ahazard/sd_smartprocess)  
   - [x] [images browser](https://github.com/yfszzx/stable-diffusion-webui-images-browser)  
   - [x] [steps animation](https://github.com/vladmandic/sd-extension-steps-animation)  
-  - [ ] [inspiration](https://github.com/yfszzx/stable-diffusion-webui-inspiration)  
-  - [ ] [Deforum](https://github.com/deforum-art/deforum-for-automatic1111-webui)  
-  - [ ] [artists to study](https://github.com/camenduru/stable-diffusion-webui-artists-to-study)  
-  - [ ] [image scorer](https://github.com/tsngo/stable-diffusion-webui-aesthetic-image-scorer)  
-  - [ ] [dataset tag editor](https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor)  
-  - [ ] [paint ext](https://github.com/Interpause/auto-sd-paint-ext)  
   - [x] [training picker](https://github.com/Maurdekye/training-picker)  
   - [x] [unprompted](https://github.com/ThereforeGames/unprompted)  
-  - [ ] [StylePile](https://github.com/some9000/StylePile)  
-  - [ ] [tagcomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)   
   - [x] [novelai 2 local prompt](https://github.com/animerl/novelai-2-local-prompt)  
   - [x] [tokenizer](https://github.com/AUTOMATIC1111/stable-diffusion-webui-tokenizer)  
   - [x] [latent mirroring](https://github.com/dfaker/SD-latent-mirroring)  
@@ -41,14 +28,11 @@
   - [x] [conditioning highres fix](	https://github.com/dtlnor/stable-diffusion-webui-conditioning-highres-fix.git) 
   - [x] [auto TLS-HTTPS](https://github.com/papuSpartan/stable-diffusion-webui-auto-tls-https.git)  
   - [x] [DreamArtist](https://github.com/7eu7d7/DreamArtist-sd-webui-extension.git)  
-  - [ ] [Waifu Diffusion 1.4 tagger](https://github.com/toriato/stable-diffusion-webui-wd14-tagger.git)  
-  - [ ] [booru2prompt](https://github.com/Malisius/booru2prompt)  
-  - [ ] [merge board](https://github.com/bbc-mc/sdweb-merge-board)  
-  - [ ] [multi subject render](https://github.com/Extraltodeus/multi-subject-render)  
   - [x] [depthmap2mask](https://github.com/Extraltodeus/depthmap2mask)  
-  - [ ] [Cross-Attention](https://github.com/benkyoujouzu/stable-diffusion-webui-visualize-cross-attention-extension)
   - [x] [rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg)
   - [x] [Tiled Diffusion](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
+  - [x] [ToMe SD](https://github.com/SLAPaper/a1111-sd-webui-tome)
+  
 </details>
 
 ## Переведенные скрипты
