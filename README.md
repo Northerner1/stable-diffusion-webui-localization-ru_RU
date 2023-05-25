@@ -1,5 +1,5 @@
 # stable-diffusion-webui-localization-ru_RU
- Русский язык для AUTOMATIC1111's stable diffusion webui
+ Русская локализация для AUTOMATIC1111's stable diffusion webui
 
 # Описание
 [Расширение](https://github.com/Northerner1/stable-diffusion-webui-localization-ru_RU) для перевода на Русский язык [stable diffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
