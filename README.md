@@ -50,6 +50,6 @@
 ### 2. Поместить файл hints.js в папку : stable-diffusion-webui\javascript
 (hints.js - Русский перевод всплывающих подсказок при наведении на элементы) 
 
-### 3. Запустить stable diffusion, перейти в вкладку "Extensions" и убедиться что на stable-diffusion-webui-localization-ru_RU стоит галочка, после перейти в Settings >> User interface в самом низу будет "Localization (requires restart) - None" выбрать "ru_RU", после чего наверху нажать "Apply settings", и "Reload UI" 
+### 3. Запустить stable diffusion, перейти в вкладку "Extensions" и убедиться что на stable-diffusion-webui-localization-ru_RU стоит галочка, после перейти в Settings >> User interface там будет "Localization (requires restart) - None" выбрать "ru_RU", после чего наверху нажать "Apply settings", и "Reload UI" 
 
 ### 4. Готово 
