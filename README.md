@@ -13,7 +13,6 @@
   - [x] [dynamic prompts](https://github.com/adieyal/sd-dynamic-prompts)  
   - [x] [dreambooth](https://github.com/d8ahazard/sd_dreambooth_extension)  
   - [x] [smartprocess](https://github.com/d8ahazard/sd_smartprocess)  
-  - [x] [images browser](https://github.com/yfszzx/stable-diffusion-webui-images-browser)  
   - [x] [steps animation](https://github.com/vladmandic/sd-extension-steps-animation)  
   - [x] [training picker](https://github.com/Maurdekye/training-picker)  
   - [x] [unprompted](https://github.com/ThereforeGames/unprompted)  
@@ -32,6 +31,10 @@
   - [x] [rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg)
   - [x] [Tiled Diffusion](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
   - [x] [ToMe SD](https://github.com/SLAPaper/a1111-sd-webui-tome)
+  - [x] [ebsynth utility](https://github.com/s9roll7/ebsynth_utility)
+  - [x] [ControlNet](https://github.com/Mikubill/sd-webui-controlnet)
+  - [x] [images browser](https://github.com/AlUlkesh/stable-diffusion-webui-images-browser)  
+  - [x] [Prompt Translator](https://github.com/butaixianran/Stable-Diffusion-Webui-Prompt-Translator)  
   
 </details>
 
