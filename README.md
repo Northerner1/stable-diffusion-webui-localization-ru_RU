@@ -38,17 +38,16 @@
   - [x] [prompt travel](https://github.com/Kahsolt/stable-diffusion-webui-prompt-travel)
   - [x] [depthmap2mask](https://github.com/Extraltodeus/depthmap2mask)  
 
-
-
 </details>
 
 ## Установка
 
-### 1. Поместить папку stable-diffusion-webui-localization-ru_RU по адресу : stable-diffusion-webui\extensions\stable-diffusion-webui-localization-ru_RU
+### 1. В stable diffusion Перейти в вкладку `Extensions` >> `Install from URL` и в поле `URL for extension's git repository` вставить - `https://github.com/Northerner1/stable-diffusion-webui-localization-ru_RU.git` и нажать `Install`, после установки нажать внизу `Reload UI`
+### 1.1 Другой способ: Скачать ZIP - (<>Code - Download ZIP) после поместить папку `stable-diffusion-webui-localization-ru_RU-main` по адресу `stable-diffusion-webui\extensions\`
 
-### 2. Поместить файл hints.js в папку : stable-diffusion-webui\javascript
-(hints.js - Русский перевод всплывающих подсказок при наведении на элементы) 
+### 2. После перезагрузки/запуска stable diffusion, перейти в вкладку `Extensions` и убедиться что на `stable-diffusion-webui-localization-ru_RU` стоит галочка, после перейти в `Settings` >> `User interface` и в `Localization (requires restart)` выбрать `ru_RU`, после чего наверху нажать сначала `Apply settings`, а после `Reload UI`
 
-### 3. Запустить stable diffusion, перейти в вкладку "Extensions" и убедиться что на stable-diffusion-webui-localization-ru_RU стоит галочка, после перейти в Settings >> User interface там будет "Localization (requires restart) - None" выбрать "ru_RU", после чего наверху нажать "Apply settings", и "Reload UI" 
+### 3. (по желанию) Поместить файл `hints.js` с заменой в папку `stable-diffusion-webui\javascript`
+`(hints.js - Русский перевод всплывающих подсказок при наведении на элементы)` 
 
 ### 4. Готово 
