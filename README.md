@@ -11,23 +11,13 @@
   - [x] [aesthetic gradients](https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients)  
   - [x] [wildcards](https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards)  
   - [x] [dynamic prompts](https://github.com/adieyal/sd-dynamic-prompts)  
-  - [x] [dreambooth](https://github.com/d8ahazard/sd_dreambooth_extension)  
-  - [x] [smartprocess](https://github.com/d8ahazard/sd_smartprocess)  
   - [x] [steps animation](https://github.com/vladmandic/sd-extension-steps-animation)  
   - [x] [training picker](https://github.com/Maurdekye/training-picker)  
-  - [x] [unprompted](https://github.com/ThereforeGames/unprompted)  
-  - [x] [novelai 2 local prompt](https://github.com/animerl/novelai-2-local-prompt)  
   - [x] [tokenizer](https://github.com/AUTOMATIC1111/stable-diffusion-webui-tokenizer)  
   - [x] [latent mirroring](https://github.com/dfaker/SD-latent-mirroring)  
   - [x] [embedding editor](https://github.com/CodeExplode/stable-diffusion-webui-embedding-editor)  
-  - [x] [seed travel](https://github.com/yownas/seed_travel)  
-  - [x] [shift attention](https://github.com/yownas/shift-attention)  
-  - [x] [detailer](https://github.com/dustysys/ddetailer.git)  
-  - [x] [prompt travel](https://github.com/Kahsolt/stable-diffusion-webui-prompt-travel)  
   - [x] [conditioning highres fix](	https://github.com/dtlnor/stable-diffusion-webui-conditioning-highres-fix.git) 
-  - [x] [auto TLS-HTTPS](https://github.com/papuSpartan/stable-diffusion-webui-auto-tls-https.git)  
   - [x] [DreamArtist](https://github.com/7eu7d7/DreamArtist-sd-webui-extension.git)  
-  - [x] [depthmap2mask](https://github.com/Extraltodeus/depthmap2mask)  
   - [x] [rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg)
   - [x] [Tiled Diffusion](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
   - [x] [ToMe SD](https://github.com/SLAPaper/a1111-sd-webui-tome)
@@ -43,7 +33,13 @@
 <details>
   <summary>Список</summary>
   
-  - [x] [embedding to png](https://github.com/dfaker/embedding-to-png-script)  
+  - [x] [seed travel](https://github.com/yownas/seed_travel)
+  - [x] [shift attention](https://github.com/yownas/shift-attention)
+  - [x] [prompt travel](https://github.com/Kahsolt/stable-diffusion-webui-prompt-travel)
+  - [x] [depthmap2mask](https://github.com/Extraltodeus/depthmap2mask)  
+
+
+
 </details>
 
 ## Установка
