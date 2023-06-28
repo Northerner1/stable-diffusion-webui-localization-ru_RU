@@ -970,7 +970,7 @@
     "Put variable parts at start of prompt": "Поместить переменные части в начало промта",
     "Put weight sets. float number x 25": "Наборы весов. Число с плавающей запятой x 25",
     "Quality for saved jpeg images": "Качество сохраненных изображений в формате JPEG",
-    "Quicksettings list": "Список быстрых настроек (будет отображаться вверху страницы, рекомендуется заполнять в \"sd_model_checkpoint,sd_vae\")",
+    "Quicksettings list": "Список быстрых настроек (будет отображаться вверху страницы, пример: \"sd_model_checkpoint,sd_vae\")",
     "RGB to BGR": "Карта нормалей RGB в BGR",
     "Random choices": "Случайный выбор",
     "Randomize": "Случайность",
