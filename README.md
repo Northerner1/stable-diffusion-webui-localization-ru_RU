@@ -20,11 +20,12 @@
   - [x] [DreamArtist](https://github.com/7eu7d7/DreamArtist-sd-webui-extension.git)  
   - [x] [Rembg](https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg)
   - [x] [Tiled Diffusion](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
-  - [x] [ToMe SD](https://github.com/SLAPaper/a1111-sd-webui-tome)
   - [x] [Ebsynth Utility](https://github.com/s9roll7/ebsynth_utility)
   - [x] [ControlNet](https://github.com/Mikubill/sd-webui-controlnet)
   - [x] [Images Browser](https://github.com/AlUlkesh/stable-diffusion-webui-images-browser)  
-  - [x] [Prompt Translator](https://github.com/butaixianran/Stable-Diffusion-Webui-Prompt-Translator)  
+  - [x] [Prompt Translator](https://github.com/butaixianran/Stable-Diffusion-Webui-Prompt-Translator)
+  - [x] [adetailer](https://github.com/Bing-su/adetailer)
+  - [x] [sd-webui-reactor](https://github.com/Gourieff/sd-webui-reactor)
   
 </details>
 
@@ -46,9 +47,6 @@
 
  1. Другой способ: Скачать ZIP - (<>Code - Download ZIP) >> поместить папку `stable-diffusion-webui-localization-ru_RU-main` по адресу `stable-diffusion-webui\extensions\`.
 
- 2. После перезагрузки/запуска stable diffusion, перейти в вкладку `Extensions` и убедиться что на `stable-diffusion-webui-localization-ru_RU` стоит галочка, после     перейти в `Settings` >> `User interface` и в `Localization (requires restart)` выбрать `ru_RU`, после чего наверху нажать сначала `Apply settings`, а после         `Reload UI`.
+ 2. После перезагрузки/запуска stable diffusion, перейти в вкладку `Extensions` и убедиться что на `stable-diffusion-webui-localization-ru_RU` стоит галочка, после     перейти в `Settings` >> `User interface` и в `Localization (requires Reload UI)` выбрать `ru_RU`, после чего наверху нажать сначала `Apply settings`, а после         `Reload UI`.
 
- 3. (по желанию) Поместить файл `hints.js` с заменой в папку `stable-diffusion-webui\javascript`.    
-    `(hints.js - Русский перевод всплывающих подсказок при наведении на элементы)` 
-
- 4. Готово.
+3. Готово.
