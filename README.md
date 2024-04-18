@@ -26,6 +26,7 @@
   - [x] [Prompt Translator](https://github.com/butaixianran/Stable-Diffusion-Webui-Prompt-Translator)
   - [x] [adetailer](https://github.com/Bing-su/adetailer)
   - [x] [sd-webui-reactor](https://github.com/Gourieff/sd-webui-reactor)
+  - [x] [sd-webui-supermerger](https://github.com/hako-mikan/sd-webui-supermerger)
   
 </details>
 
